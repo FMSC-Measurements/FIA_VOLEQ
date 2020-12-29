@@ -1,0 +1,9 @@
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\bin\x86\Release\FIA_VOLEQ.exe
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\bin\x86\Release\FIA_VOLEQ.pdb
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\bin\x86\Release\System.Data.SQLite.dll
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\obj\x86\Release\ResolveAssemblyReference.cache
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\obj\x86\Release\FIA_VOLEQ.Form1.resources
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\obj\x86\Release\FIA_VOLEQ.Properties.Resources.resources
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\obj\x86\Release\FIA_VOLEQ.csproj.GenerateResource.Cache
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\obj\x86\Release\FIA_VOLEQ.exe
+C:\development\FIA_VOLEQ_Default\FIA_VOLEQ\FIA_VOLEQ\obj\x86\Release\FIA_VOLEQ.pdb
